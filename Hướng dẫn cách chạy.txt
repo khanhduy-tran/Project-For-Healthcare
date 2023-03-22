@@ -1,0 +1,8 @@
+Bước 1: cd vào thư mục rồi chạy cmd
+Bước 2 : Nhập câu lệnh "npm install"
+Bước 3: Tạo account trên ganache rồi kết nối với metamask
+Bước 4: Dùng địa chỉ của account kết nối với metamask để làm địa chỉ của chủ hợp đồng
+Bước 5: lấy code trong file SmartContract.sol bỏ vào trang web remix.ethereum.org để lấy ABI và address
+Bước 6: Sau khi có ABI và address hãy coppy và sửa lại trong file config
+Bước 7: bật cmd và gõ "npm start" để chạy.
+Thanks
